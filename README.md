@@ -5,12 +5,18 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hi, I'm Tamana Farooq Khanday👋
+
+🎓 Engineering Student  
+💻 Interested in Machine Learning & AI  
+🌱 Currently learning Python, Java, and Web Development  
+🚀 Building projects and improving problem-solving skills  
+
+## Skills
+- Python
+- Java
+- HTML/CSS
+- Machine Learning Basics
+
+## Connect with Me
+- GitHub: https://github.com/tamannafarooq
